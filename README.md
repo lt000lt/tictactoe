@@ -3,9 +3,10 @@ Tic Tac
 
 This website is an interactive exercise from "A Teen Guide to Vibe Coding" by Ju-Lien Toole.
 
+A modern, browser-based Tic Tac Toe game with AI opponent and beautiful animations.
+
 The project demonstrates how modern web technologies can create engaging, teen-friendly interfaces for learning programming through AI-powered conversations.
 
-A modern, browser-based Tic Tac Toe game with AI opponent and beautiful animations.
 
 ## 🎮 Play Online
 [Play the game here](https://lt000lt.github.io/tictactoe/)
