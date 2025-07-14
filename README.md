@@ -28,3 +28,5 @@ The project demonstrates how modern web technologies can create engaging, teen-f
 - HTML5
 - CSS3 (Grid, Flexbox, Animations)
 - Vanilla JavaScript (ES6+)
+
+Submit ideas and feedback as a GitHub pull request at https://github.com/lt000lt/tictactoe/.
