@@ -1,7 +1,7 @@
 # tictactoe
 Tic Tac 
 
-This website is an interactive exercise from "A Teen Guide to Vibe Coding" by Ju-Lien Toole.
+This was created by following https://medium.com/@limtoole/this-30-minute-vibe-coding-game-trick-just-broke-everything-i-thought-i-knew-about-programming-a3d39f3ed1d5.
 
 A modern, browser-based Tic Tac Toe game with AI opponent and beautiful animations.
 
